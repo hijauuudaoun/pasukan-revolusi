@@ -1,4 +1,5 @@
 PASUKAN REVOLUSI
--revolusi untuk perubahan
 -membuat forum diskusi
 -membuat platform untuk mengelola project
+  >membuat yel yel
+  >membuat pasukan revolusi
