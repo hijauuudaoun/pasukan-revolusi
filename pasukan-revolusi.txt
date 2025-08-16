@@ -2,3 +2,6 @@ PASUKAN REVOLUSI
 -revolusi untuk perubahan
 -membuat forum diskusi
 -membuat platform untuk mengelola project
+  >membuat project
+  >membuat konten
+  >membuat blog
