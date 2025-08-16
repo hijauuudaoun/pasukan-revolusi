@@ -3,3 +3,6 @@ PASUKAN REVOLUSI
 -membuat platform untuk mengelola project
   >membuat yel yel
   >membuat pasukan revolusi
+  >membuat project
+  >membuat konten
+  >membuat blog
